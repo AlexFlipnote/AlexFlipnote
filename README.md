@@ -2,4 +2,4 @@ Obviously, it is called **README**, so you are **reading** me now. Also I made [
 
 You can talk to me at [discord.gg/DpxkY3x](https://discord.gg/DpxkY3x).
 
-![challenge_yes](https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10)
+![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
